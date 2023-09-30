@@ -1,0 +1,90 @@
+{
+   "checksum": "ff465a7e39089a08d65bf336ab5ea687",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13301890748857064",
+            "date_last_used": "0",
+            "guid": "12416350-bd49-4521-939a-6253511c0eef",
+            "id": "15",
+            "name": "Google Trends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://trends.google.com/trends/?geo=BO"
+         }, {
+            "date_added": "13301890755560751",
+            "date_last_used": "0",
+            "guid": "0bc321b3-0047-4573-a3f8-8fdfb0c8edd8",
+            "id": "16",
+            "name": "Elige las palabras clave correctas con nuestras herramientas de investigación - Google Ads",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ads.google.com/home/tools/keyword-planner/"
+         }, {
+            "date_added": "13340224171444523",
+            "date_last_used": "0",
+            "guid": "c4f43c3b-84e8-4cf8-b8c5-29a954e501c8",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13340224171444072",
+            "date_last_used": "0",
+            "guid": "12ac1e34-e961-4059-b757-23abf25cb284",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13340224171440967",
+            "date_last_used": "0",
+            "guid": "3769711a-bcd3-4225-b1cf-5bc4782470f4",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13340224171072781",
+         "date_last_used": "0",
+         "date_modified": "13340347253598464",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13340224171072784",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13340224171072786",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCA/Q7dmKAQAAKg4QABgBIAAoAzAAOABAABIAIAEqGE5hVThKVFNYNWtuOUpiVVYzVmFRVFE9PaAGDBKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiMDA5MGRmYS0yZWI4LTUwMDMtYTcxOS1iOGE1MWQ3M2Y5Y2IYACAAKAAwjLmAxfsvOMq7gMX7L0DKu4DF+y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDViNGRiMGJiLTlhYzEtNTkzOS04ODYwLTcwNWQxNjY2MjI2MxgAIAAoADCMuYDF+y84vbqAxfsvQL26gMX7L0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkY2IzMjgxYTctMDgwYi01ODVkLTk2YTYtYjRiNDhlOWUwZGZkGAAgACgAMIy5gMX7LzituoDF+y9ArbqAxfsvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgPEqIBChxQZDRHcUNES0NCNVV3UTJ1bG9BcVpLdG5pWEE9EiQxMjQxNjM1MC1iZDQ5LTQ1MjEtOTM5YS02MjUzNTExYzBlZWYYACACKAIw2tKjpq0xOLLriq6eMEDp0KOmrTFKHExkTzJuOWozMURBcXpLM3kxOXZVNjdnQzRvZz1aHiIcRkFoNmppZXMyVW16a1NUSmwzNGtsQTRyU204PWVaec1uEqcBCBASogEKHEpwL3ZaejJuSjhLUEVxNTJtK3Q4UWJIeGJLYz0SJDBiYzMyMWIzLTAwNDctNDU3My1hM2Y4LThmZGZiMGM4ZWRkOBgAIAIoAjDb0qOmrTE4+pyLrp4wQOrQo6atMUocd2dySTBwNGptdVp6Ukc2ZzM3Sk5TQ1E5OFgwPVoeIhxsZjQxRWg5Ky9jUUkrT2ZmTkFibVB6OFhPTEU9ZSke8GEwADgA",
+   "version": 1
+}
